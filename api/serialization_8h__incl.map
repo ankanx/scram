@@ -1,0 +1,15 @@
+<map id="serialization.h" name="serialization.h">
+<area shape="rect" id="node4" href="$model_8h.xhtml" title="Representation for a model container for risk analysis. " alt="" coords="1391,80,1465,107"/>
+<area shape="rect" id="node8" href="$alignment_8h.xhtml" title="Mission and phase constructs. " alt="" coords="835,155,933,181"/>
+<area shape="rect" id="node9" href="$element_8h.xhtml" title="Helper classes, structs, and properties common to all other classes. " alt="" coords="1251,461,1338,487"/>
+<area shape="rect" id="node14" href="$instruction_8h.xhtml" title="Model and event tree modifier instructions. " alt="" coords="745,229,847,256"/>
+<area shape="rect" id="node15" href="$event_8h.xhtml" title="Contains event classes for fault trees. " alt="" coords="1277,304,1347,331"/>
+<area shape="rect" id="node17" href="$expression_8h.xhtml" title="Provides the base class for all expressions and units for expression values. " alt="" coords="1933,379,2035,405"/>
+<area shape="rect" id="node24" href="$ccf__group_8h.xhtml" title="Functional containers for basic events grouped by common cause failure. " alt="" coords="1721,229,1817,256"/>
+<area shape="rect" id="node27" href="$event__tree_8h.xhtml" title="Event Tree facilities. " alt="" coords="335,155,438,181"/>
+<area shape="rect" id="node29" href="$test__event_8h.xhtml" title="Event tree analysis expressions to test functional and initiating events. " alt="" coords="2342,304,2517,331"/>
+<area shape="rect" id="node31" href="$fault__tree_8h.xhtml" title="Fault Tree and Component containers. " alt="" coords="1381,155,1475,181"/>
+<area shape="rect" id="node33" href="$parameter_8h.xhtml" title="Parameter expressions that act like a shareable variable. " alt="" coords="1580,304,1681,331"/>
+<area shape="rect" id="node22" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="2288,461,2352,487"/>
+<area shape="rect" id="node28" href="$variant_8h.xhtml" title="Extra helper functions for boost::variant. " alt="" coords="195,229,298,256"/>
+</map>

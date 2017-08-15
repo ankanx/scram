@@ -1,0 +1,17 @@
+<map id="initializer.h" name="initializer.h">
+<area shape="rect" id="node13" href="$ccf__group_8h.xhtml" title="Functional containers for basic events grouped by common cause failure. " alt="" coords="1089,244,1185,271"/>
+<area shape="rect" id="node16" href="$element_8h.xhtml" title="Helper classes, structs, and properties common to all other classes. " alt="" coords="1801,475,1887,502"/>
+<area shape="rect" id="node19" href="$event_8h.xhtml" title="Contains event classes for fault trees. " alt="" coords="1715,319,1786,345"/>
+<area shape="rect" id="node20" href="$expression_8h.xhtml" title="Provides the base class for all expressions and units for expression values. " alt="" coords="897,393,999,420"/>
+<area shape="rect" id="node26" href="$event__tree_8h.xhtml" title="Event Tree facilities. " alt="" coords="2330,169,2433,196"/>
+<area shape="rect" id="node28" href="$instruction_8h.xhtml" title="Model and event tree modifier instructions. " alt="" coords="1983,244,2084,271"/>
+<area shape="rect" id="node29" href="$constant_8h.xhtml" title="Constant expressions that cannot have uncertainties. " alt="" coords="195,87,357,114"/>
+<area shape="rect" id="node30" href="$fault__tree_8h.xhtml" title="Fault Tree and Component containers. " alt="" coords="1327,169,1422,196"/>
+<area shape="rect" id="node32" href="$parameter_8h.xhtml" title="Parameter expressions that act like a shareable variable. " alt="" coords="981,319,1083,345"/>
+<area shape="rect" id="node33" href="$model_8h.xhtml" title="Representation for a model container for risk analysis. " alt="" coords="1631,87,1705,114"/>
+<area shape="rect" id="node36" href="$settings_8h.xhtml" title="Builder for settings. " alt="" coords="444,475,529,502"/>
+<area shape="rect" id="node24" href="$error_8h.xhtml" title="Exceptions for SCRAM. " alt="" coords="785,475,849,502"/>
+<area shape="rect" id="node27" href="$variant_8h.xhtml" title="Extra helper functions for boost::variant. " alt="" coords="2521,319,2623,345"/>
+<area shape="rect" id="node34" href="$alignment_8h.xhtml" title="Mission and phase constructs. " alt="" coords="1896,169,1995,196"/>
+<area shape="rect" id="node35" href="$test__event_8h.xhtml" title="Event tree analysis expressions to test functional and initiating events. " alt="" coords="599,169,774,196"/>
+</map>
