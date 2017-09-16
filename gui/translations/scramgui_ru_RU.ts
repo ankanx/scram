@@ -9,7 +9,7 @@
     </message>
     <message>
       <source>Label:</source>
-      <translation>Ярлык:</translation>
+      <translation>Метка:</translation>
     </message>
     <message>
       <source>Name:</source>
@@ -345,7 +345,7 @@
     <name>QObject</name>
     <message>
       <source>Set element &apos;%1&apos; label to &apos;%2&apos;</source>
-      <translation>Установить ярлык элемента «%1» на «%2»</translation>
+      <translation>Установить метку элемента «%1» на «%2»</translation>
     </message>
     <message>
       <source>Modify basic event &apos;%1&apos; expression</source>
@@ -792,7 +792,7 @@
     </message>
     <message>
       <source>Label</source>
-      <translation>Ярлык</translation>
+      <translation>Метка</translation>
     </message>
   </context>
   <context>
@@ -852,7 +852,7 @@
     </message>
     <message>
       <source>Label</source>
-      <translation>Ярлык</translation>
+      <translation>Метка</translation>
     </message>
   </context>
   <context>
@@ -868,7 +868,7 @@
     </message>
     <message>
       <source>Label</source>
-      <translation>Ярлык</translation>
+      <translation>Метка</translation>
     </message>
   </context>
 </TS>
